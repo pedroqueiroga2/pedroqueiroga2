@@ -3,7 +3,7 @@
 
 ###  I´m a Full Stack Developer | .NET • JS • SQL Server • SAP
 
-I´m in focus on building web applications, APIs and business systems.
+I´m focused on building web applications, APIs and business systems.
 
 My main experience is with the **.NET ecosystem**, working with **C#, ASP.NET Core, ASP.NET MVC, JavaScript, jQuery, Razor and relational databases**.
 
